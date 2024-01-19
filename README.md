@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="https://d14pjowmeoxkey.cloudfront.net/wp-content/uploads/uppercase-vs-lowercase.jpg" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O "Aplicativo de Formulário UPPER e LOWER" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas ou minúsculas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.

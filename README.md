@@ -1,18 +1,18 @@
 # FORMULÁRIO UPPER E LOWER
-🎈CONVERTA SEU TEXTO PARA UPPER OU LOWER.
+🎈CONVERTA SEU TEXTO PARA UPPER, LOWER OU MISTO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO_P.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
-O "Aplicativo de Formulário UPPER e LOWER" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas ou minúsculas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.
+O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas, minúsculas ou ambas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.
 
 ## RECURSOS:
 1. **Entrada de Texto Flexível:** O aplicativo fornece uma área de entrada de texto onde os usuários podem inserir ou colar texto de sua escolha. A entrada de texto é flexível e acomoda parágrafos ou texto simples.
 
-2. **Conversão para Maiúsculas ou Minúsculas:** O aplicativo oferece dois botões distintos, "UPPER" e "lOWER", que permitem aos usuários converter o texto inserido para letras maiúsculas ou minúsculas, respectivamente. Isso é útil para padronizar o texto ou realizar formatação de acordo com as necessidades do usuário.
+2. **Conversão para Maiúsculas, Minúsculas ou Misturado:** O aplicativo oferece três botões distintos, "UPPER", "lOWER" e "MISTO", que permitem aos usuários converter o texto inserido para letras maiúsculas, minúsculas ou misturado (Apenas a primeira letra inicial de cada palavra fica maiúscula), respectivamente. Isso é útil para padronizar o texto ou realizar formatação de acordo com as necessidades do usuário.
 
 3. **Visualização do Texto Formatado:** O texto formatado após a conversão é exibido em uma área designada, onde os usuários podem revisar o resultado. Isso torna fácil verificar se o texto foi convertido de acordo com as preferências do usuário.
 

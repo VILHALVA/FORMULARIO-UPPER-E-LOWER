@@ -1,10 +1,7 @@
 # FORMULÁRIO UPPER E LOWER
 🎈CONVERTA SEU TEXTO PARA UPPER, LOWER OU MISTO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
-
-<img src="FOTO_P.png" align="center" width="400"> <br>
+<img src="FOTO_P.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas, minúsculas ou ambas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.
@@ -20,6 +17,34 @@ O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, po
 
 5. **Limpeza Fácil dos Campos:** O botão "LIMPAR" permite que os usuários limpem tanto o campo de entrada de texto quanto o campo de texto formatado, facilitando a preparação para a entrada de novo texto ou a realização de novas conversões.
 
-## UTILIDADE:
 Este aplicativo é valioso para qualquer pessoa que trabalhe frequentemente com texto e deseje uma maneira rápida e eficaz de formatar o texto conforme necessário. Ele economiza tempo e esforço, eliminando a necessidade de realizar conversões manualmente ou abrir aplicativos de edição de texto mais complexos.
+
+## COMO USAR?
+**Passo 1:** Clone o repositório para o seu sistema local.
+
+```bash
+git clone https://github.com/VILHALVA/FORMULARIO-UPPER-E-LOWER.git
+```
+
+**Passo 2:** Navegue até o diretório do projeto.
+
+```bash
+cd FORMULARIO-UPPER-E-LOWER
+```
+
+**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip FORMULARIO-UPPER-E-LOWER.zip
+```
+
+**Passo 4:** Execute o executável do projeto.
+
+```bash
+./FORMULARIO-UL
+```
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
 

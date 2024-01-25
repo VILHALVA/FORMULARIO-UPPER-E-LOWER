@@ -1,7 +1,7 @@
 # FORMULÁRIO UPPER E LOWER
 🎈CONVERTA SEU TEXTO PARA UPPER, LOWER OU MISTO.
 
-<img src="FOTO_P.png" align="center" width="500"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas, minúsculas ou ambas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.
@@ -20,6 +20,7 @@ O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, po
 Este aplicativo é valioso para qualquer pessoa que trabalhe frequentemente com texto e deseje uma maneira rápida e eficaz de formatar o texto conforme necessário. Ele economiza tempo e esforço, eliminando a necessidade de realizar conversões manualmente ou abrir aplicativos de edição de texto mais complexos.
 
 ## COMO USAR?
+### BAIXANDO O PROJETO:
 **Passo 1:** Clone o repositório para o seu sistema local.
 
 ```bash
@@ -43,6 +44,21 @@ unzip FORMULARIO-UPPER-E-LOWER.zip
 ```bash
 ./FORMULARIO-UL
 ```
+### EXECUTANDO O PROJETO:
+1. **Inserir Texto**: Na primeira caixa de texto, insira o texto que deseja converter. Você pode digitar manualmente ou colar texto de outra fonte.
+
+2. **Selecionar Opção de Conversão**: Na ComboBox, selecione o tipo de conversão desejado:
+   - **UPPER**: Converte todo o texto para letras maiúsculas.
+   - **LOWER**: Converte todo o texto para letras minúsculas.
+   - **MISTO**: Converte o texto para o formato "misto", onde a primeira letra de cada palavra é maiúscula e o restante é minúscula.
+
+3. **Converter**: Depois de inserir o texto e selecionar a opção de conversão, clique no botão "CONVERTER". O texto convertido será exibido na segunda caixa de texto.
+
+4. **Copiar Texto Convertido**: Se desejar, você pode clicar no botão "COPIAR" para copiar o texto convertido para a área de transferência do sistema.
+
+5. **Limpar Campos**: Para limpar os campos de entrada e saída, clique no botão "LIMPAR". Isso apagará o texto inserido e o texto convertido.
+
+6. **Fechar o Aplicativo**: Para fechar o aplicativo, você pode clicar no botão de fechar na janela ou usar o método de fechamento padrão do seu sistema operacional.
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)

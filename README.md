@@ -17,8 +17,6 @@ O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, po
 
 5. **Limpeza Fácil dos Campos:** O botão "LIMPAR" permite que os usuários limpem tanto o campo de entrada de texto quanto o campo de texto formatado, facilitando a preparação para a entrada de novo texto ou a realização de novas conversões.
 
-Este aplicativo é valioso para qualquer pessoa que trabalhe frequentemente com texto e deseje uma maneira rápida e eficaz de formatar o texto conforme necessário. Ele economiza tempo e esforço, eliminando a necessidade de realizar conversões manualmente ou abrir aplicativos de edição de texto mais complexos.
-
 ## EXECUTANDO O PROJETO:
 1. **Inserir Texto**: Na primeira caixa de texto, insira o texto que deseja converter. Você pode digitar manualmente ou colar texto de outra fonte.
 
@@ -35,9 +33,18 @@ Este aplicativo é valioso para qualquer pessoa que trabalhe frequentemente com 
 
 6. **Fechar o Aplicativo**: Para fechar o aplicativo, você pode clicar no botão de fechar na janela ou usar o método de fechamento padrão do seu sistema operacional.
 
-## SAIBA MAIS:
+## SOBRE O EXECUTAVEL:
+- Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE TKINTER](https://github.com/VILHALVA/CURSO-DE-TKINTER)
+* [CURSO DE EXE](https://github.com/VILHALVA/CURSO-DE-EXE)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 
 

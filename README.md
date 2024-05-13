@@ -58,7 +58,6 @@ O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, po
 - Entendemos que para manipular arquivos em muitas linguagens, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE TKINTER](https://github.com/VILHALVA/CURSO-DE-TKINTER)
-* [CURSO DE EXE](https://github.com/VILHALVA/CURSO-DE-EXE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:

@@ -18,20 +18,25 @@ O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, po
 5. **Limpeza Fácil dos Campos:** O botão "LIMPAR" permite que os usuários limpem tanto o campo de entrada de texto quanto o campo de texto formatado, facilitando a preparação para a entrada de novo texto ou a realização de novas conversões.
 
 ## EXECUTANDO O PROJETO:
-1. **Inserir Texto**: Na primeira caixa de texto, insira o texto que deseja converter. Você pode digitar manualmente ou colar texto de outra fonte.
+1. **Executando o Código:** Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 
-2. **Selecionar Opção de Conversão**: Na ComboBox, selecione o tipo de conversão desejado:
+2. **Inserir Texto**: Na primeira caixa de texto, insira o texto que deseja converter. Você pode digitar manualmente ou colar texto de outra fonte.
+
+3. **Selecionar Opção de Conversão**: Na ComboBox, selecione o tipo de conversão desejado:
    - **UPPER**: Converte todo o texto para letras maiúsculas.
    - **LOWER**: Converte todo o texto para letras minúsculas.
    - **MISTO**: Converte o texto para o formato "misto", onde a primeira letra de cada palavra é maiúscula e o restante é minúscula.
 
-3. **Converter**: Depois de inserir o texto e selecionar a opção de conversão, clique no botão "CONVERTER". O texto convertido será exibido na segunda caixa de texto.
+4. **Converter**: Depois de inserir o texto e selecionar a opção de conversão, clique no botão "CONVERTER". O texto convertido será exibido na segunda caixa de texto.
 
-4. **Copiar Texto Convertido**: Se desejar, você pode clicar no botão "COPIAR" para copiar o texto convertido para a área de transferência do sistema.
+5. **Copiar Texto Convertido**: Se desejar, você pode clicar no botão "COPIAR" para copiar o texto convertido para a área de transferência do sistema.
 
-5. **Limpar Campos**: Para limpar os campos de entrada e saída, clique no botão "LIMPAR". Isso apagará o texto inserido e o texto convertido.
+6. **Limpar Campos**: Para limpar os campos de entrada e saída, clique no botão "LIMPAR". Isso apagará o texto inserido e o texto convertido.
 
-6. **Fechar o Aplicativo**: Para fechar o aplicativo, você pode clicar no botão de fechar na janela ou usar o método de fechamento padrão do seu sistema operacional.
+7. **Fechar o Aplicativo**: Para fechar o aplicativo, você pode clicar no botão de fechar na janela ou usar o método de fechamento padrão do seu sistema operacional.
 
 ## SOBRE O EXECUTAVEL:
 ### 1. EXECUTANDO:

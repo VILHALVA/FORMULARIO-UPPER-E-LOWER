@@ -1,42 +1,64 @@
-# FORMULÁRIO UPPER E LOWER
+# FORMULARIO UPPER E LOWER
 🎈CONVERTA SEU TEXTO PARA UPPER, LOWER OU MISTO.
 
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O "Aplicativo de Formulário UPPER, LOWER e MISTO" é uma ferramenta simples, porém útil, desenvolvida em Python com o uso da biblioteca Tkinter para criar uma interface gráfica de usuário. O aplicativo oferece uma maneira conveniente de formatar e manipular texto, permitindo que os usuários convertam o texto para letras maiúsculas, minúsculas ou ambas, copiem o texto formatado para a área de transferência e limpem os campos de texto quando necessário.
+O **FORMULARIO - UPPER | LOWER | MISTO** é um aplicativo simples e prático desenvolvido em Python com a biblioteca Tkinter. Ele permite ao usuário formatar textos rapidamente em letras maiúsculas, minúsculas ou com a primeira letra de cada palavra em maiúsculo (estilo título). Além disso, oferece funcionalidades úteis como copiar o texto formatado com um clique (com notificação visual) e limpar os campos com validação.
 
-## RECURSOS:
-1. **Entrada de Texto Flexível:** O aplicativo fornece uma área de entrada de texto onde os usuários podem inserir ou colar texto de sua escolha. A entrada de texto é flexível e acomoda parágrafos ou texto simples.
+## FUNCIONALIDADES:
+1. **Entrada de Texto:**
 
-2. **Conversão para Maiúsculas, Minúsculas ou Misturado:** O aplicativo oferece três botões distintos, "UPPER", "lOWER" e "MISTO", que permitem aos usuários converter o texto inserido para letras maiúsculas, minúsculas ou misturado (Apenas a primeira letra inicial de cada palavra fica maiúscula), respectivamente. Isso é útil para padronizar o texto ou realizar formatação de acordo com as necessidades do usuário.
+   * Campo expansível para digitar ou colar qualquer texto.
+   * Aceita parágrafos, frases ou palavras.
 
-3. **Visualização do Texto Formatado:** O texto formatado após a conversão é exibido em uma área designada, onde os usuários podem revisar o resultado. Isso torna fácil verificar se o texto foi convertido de acordo com as preferências do usuário.
+2. **Opções de Conversão (via ComboBox):**
 
-4. **Cópia Simples para a Área de Transferência:** O aplicativo oferece a capacidade de copiar o texto formatado diretamente para a área de transferência do sistema com um simples clique no botão "COPIAR". Isso é conveniente quando os usuários desejam colar o texto em outros aplicativos ou documentos.
+   * **UPPER**: Converte todo o texto para **letras maiúsculas**.
+   * **LOWER**: Converte todo o texto para **letras minúsculas**.
+   * **MISTO**: Converte para **estilo título**, onde **cada palavra começa com letra maiúscula**.
 
-5. **Limpeza Fácil dos Campos:** O botão "LIMPAR" permite que os usuários limpem tanto o campo de entrada de texto quanto o campo de texto formatado, facilitando a preparação para a entrada de novo texto ou a realização de novas conversões.
+3. **Campo de Texto Formatado (Somente Leitura):**
 
-## EXECUTANDO O PROJETO:
-1. **Executando o Código:** Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
-```bash
-python CODIGO.py
-```
+   * O resultado da conversão é exibido em uma área protegida contra digitação.
+   * O usuário pode visualizar facilmente o texto convertido.
 
-2. **Inserir Texto**: Na primeira caixa de texto, insira o texto que deseja converter. Você pode digitar manualmente ou colar texto de outra fonte.
+4. **Botão "CONVERTER":**
 
-3. **Selecionar Opção de Conversão**: Na ComboBox, selecione o tipo de conversão desejado:
-   - **UPPER**: Converte todo o texto para letras maiúsculas.
-   - **LOWER**: Converte todo o texto para letras minúsculas.
-   - **MISTO**: Converte o texto para o formato "misto", onde a primeira letra de cada palavra é maiúscula e o restante é minúscula.
+   * Aplica a conversão selecionada ao texto inserido.
+   * Valida se o campo de entrada está preenchido antes de processar.
 
-4. **Converter**: Depois de inserir o texto e selecionar a opção de conversão, clique no botão "CONVERTER". O texto convertido será exibido na segunda caixa de texto.
+5. **Botão "COPIAR":**
 
-5. **Copiar Texto Convertido**: Se desejar, você pode clicar no botão "COPIAR" para copiar o texto convertido para a área de transferência do sistema.
+   * Copia o conteúdo do campo formatado para a área de transferência.
+   * Mostra um **pop-up temporário estilizado** com fundo preto e texto branco dizendo: **"TEXTO COPIADO"**.
 
-6. **Limpar Campos**: Para limpar os campos de entrada e saída, clique no botão "LIMPAR". Isso apagará o texto inserido e o texto convertido.
+6. **Botão "LIMPAR":**
 
-7. **Fechar o Aplicativo**: Para fechar o aplicativo, você pode clicar no botão de fechar na janela ou usar o método de fechamento padrão do seu sistema operacional.
+   * Limpa os dois campos de texto.
+   * Garante que só será executado se algum campo contiver conteúdo.
+
+7. **Rodapé de Créditos:**
+
+   * Apresenta os créditos do criador no final da janela.
+
+## COMO EXECUTAR O PROJETO?
+1. **Inicie o Aplicativo**:
+   * Para executar o script Python, navegue até o diretório `./CODIGO` e use o comando:
+
+   ```bash
+   python CODIGO.py
+   ```
+
+2. **Usar a interface conforme abaixo:**
+
+   * **Digite ou cole** seu texto na primeira caixa de texto.
+   * **Escolha a opção de conversão** na ComboBox.
+   * Clique em **"CONVERTER"** para aplicar a formatação.
+   * Visualize o resultado na segunda caixa (somente leitura).
+   * Clique em **"COPIAR"** para copiar o texto convertido (confirmação visual será exibida).
+   * Clique em **"LIMPAR"** para apagar os campos.
+   * Para **fechar o aplicativo**, use o botão padrão de fechamento da janela.
 
 ## SOBRE O EXECUTAVEL:
 ### 1. EXECUTANDO:
@@ -46,7 +68,7 @@ python CODIGO.py
    * Se necessário, você pode recompilar o executável a qualquer momento.
 
 ### 2. GERANDO:
-> **IMPORTANTE:** Antes de gerar o novo `executável`, certifique-se de excluir o arquivo `./APP/FORMULARIO UL.exe`.
+> **IMPORTANTE:** Antes de gerar o novo `executável`, certifique-se de excluir o arquivo `./APP/FORMULARIO UPPER E LOWER.exe`.
 
    **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
    - Certifique-se de ter o PyInstaller instalado. Se não tiver, instale usando o comando abaixo:
@@ -61,7 +83,7 @@ python CODIGO.py
    pyinstaller EXECUTAVEL.spec
    ```
 
-   - O arquivo `FORMULARIO UL.exe` será criado dentro da pasta `./CODIGO/dist`.
+   - O arquivo `FORMULARIO UPPER E LOWER.exe` será criado dentro da pasta `./CODIGO/dist`.
 
    - Após a geração, você pode mover o executável para `./APP` e remover as pastas temporárias `./CODIGO/build` e `./CODIGO/dist`.
 
